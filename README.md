@@ -2,7 +2,7 @@
 이스트소프트 KDT 인공지능 서비스 기획 과정 3기
 
 
-
+```
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
                 <style>
                         .text {
