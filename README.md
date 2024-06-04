@@ -1,6 +1,7 @@
 # wassup3
 이스트소프트 KDT 인공지능 서비스 기획 과정 3기
 
+```
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
                 <style>
                         .text {
@@ -33,7 +34,8 @@
                 
      
     <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#000000;" stroke="#b678c4" stroke-width="1" >Chae young ho.</text>
-                 
+```
+                
 <img src="https://image.kmib.co.kr/online_image/2022/0105/2022010515072561666_1641362845_0016639633.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="ㄴㅇㄱ"></img><br/>
 
 
