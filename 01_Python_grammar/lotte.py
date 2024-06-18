@@ -6,3 +6,5 @@ def 로또_번호생성():
 for i in range(5):
     번호생성 = 로또_번호생성()
     print(f"Set {i + 1}: {번호생성}")
+random.seed(20240618)
+print('~.~ 1등 당첨을 기원합니다 ~.~')
